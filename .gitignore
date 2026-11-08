@@ -1,0 +1,9 @@
+# Only the notebook, the web app and the model are tracked
+/*
+!/.gitignore
+!/notebook_pcb.ipynb
+!/webapp/
+/webapp/*
+!/webapp/app.py
+!/webapp/requirements.txt
+!/webapp/best.pt
